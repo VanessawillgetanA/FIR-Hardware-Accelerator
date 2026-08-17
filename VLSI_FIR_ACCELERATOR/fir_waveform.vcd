@@ -1,0 +1,76 @@
+$date
+	Mon Aug 17 00:46:33 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module fir_testbench $end
+$var wire 20 ! y [19:0] $end
+$var reg 8 " h0 [7:0] $end
+$var reg 8 # h1 [7:0] $end
+$var reg 8 $ h2 [7:0] $end
+$var reg 8 % x0 [7:0] $end
+$var reg 8 & x1 [7:0] $end
+$var reg 8 ' x2 [7:0] $end
+$scope module dut $end
+$var wire 8 ( h0 [7:0] $end
+$var wire 8 ) h1 [7:0] $end
+$var wire 8 * h2 [7:0] $end
+$var wire 8 + x0 [7:0] $end
+$var wire 8 , x1 [7:0] $end
+$var wire 8 - x2 [7:0] $end
+$var reg 20 . y [19:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b1100 .
+b100 -
+b11 ,
+b10 +
+b1 *
+b10 )
+b1 (
+b100 '
+b11 &
+b10 %
+b1 $
+b10 #
+b1 "
+b1100 !
+$end
+#10
+b1000 !
+b1000 .
+b11 '
+b11 -
+b10 &
+b10 ,
+b1 %
+b1 +
+#20
+b1001 !
+b1001 .
+b10 '
+b10 -
+b1 &
+b1 ,
+b101 %
+b101 +
+#30
+b111 !
+b111 .
+b1 '
+b1 -
+b100 &
+b100 ,
+b11111110 %
+b11111110 +
+#40
