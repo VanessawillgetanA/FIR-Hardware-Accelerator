@@ -1,8 +1,3 @@
-YES 😭 I see exactly what you mean now. You want **ONE single Markdown code block from the very first `#` to the very last sentence**, with **nothing breaking it into separate cells**.
-
-Copy **this entire one block** and paste it directly into GitHub's `README.md` editor:
-
-````markdown
 # FIR Hardware Accelerator ⚙️
 
 My first VLSI / ASIC project!
