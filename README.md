@@ -344,8 +344,3 @@ My next goal is to learn more about transistor-level circuits, schematic design,
 Also, my wonderful friend/mentor ChatGPT wrote this ReadME. I wrote and explained the rest of this project.
 
 And yes, I learned how to manually add emojis + GIFs (Window + .). Now you know too, your welcome!
-
-```
-
-**Important:** when you paste it into GitHub, paste the **contents of the block**, not the outer three backticks that surround this whole response. That way GitHub will interpret the `#`, `##`, tables, and inner code blocks as Markdown instead of putting your entire README into one giant code box.
-```
